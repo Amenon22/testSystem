@@ -20,7 +20,8 @@ public class JavaApplication4 {
     
     public void methode2()
     {
-        //killme
+        ThirdClass klasse = new ThirdClass();
+        klasse.print("hallo");
     }
     
 }
