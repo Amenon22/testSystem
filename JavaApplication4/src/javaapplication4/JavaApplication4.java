@@ -20,6 +20,7 @@ public class JavaApplication4 {
     
     public void methode2()
     {
+        // pause
         ThirdClass klasse = new ThirdClass();
         klasse.print("hallo");
     }
